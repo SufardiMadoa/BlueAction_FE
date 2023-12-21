@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #fafafa;
+  width: 100%;
+  color: black;
+  font-family: 'Poppins';
+}
+
+ul li .active {
+  font-weight: bold;
+}
+

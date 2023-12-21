@@ -1,0 +1,88 @@
+
+
+*{
+    font-family: 'Poppins';
+}
+
+.yellow {
+    color: yellow;
+}
+
+.bgEdukasi {
+    background-image: url(../Images/bgEdukasi.png);
+    background-position: center;
+    background-size: cover; 
+}
+.bgEdukasi1{
+    background-image: url(../Images/bgEdukasi3.jpg);
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.card-1{
+    background-image: url(../Images/card1.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-2{
+    background-image: url(../Images/imgNews2.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-3{
+    background-image: url(../Images/imgNews3.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-4{
+    background-image: url(../Images/imgNews4.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-5{
+    background-image: url(../Images/imgNews5.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-6{
+    background-image: url(../Images/imgNews6.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-7{
+    background-image: url(../Images/imgNews7.jpg);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-8{
+    background-image: url(../Images/imgNews8.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.card-9{
+    background-image: url(../Images/imgNews9.png);
+    background-size: cover;
+    overflow-y: hidden ! important;
+    overflow-x: hidden ! important;
+}
+.bg-opacity {
+    background-color: rgba(0, 28, 72, 0.6);
+}
+
+/* PROFILE */
+.bgProfile{
+   
+    background-image: url(../Images/bgProfile.jpg) ;
+    background-size: cover;
+    background-position: bottom ;
+}
