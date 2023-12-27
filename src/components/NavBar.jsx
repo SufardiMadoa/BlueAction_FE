@@ -1,6 +1,6 @@
 // eslint-disable-next-line no-unused-vars
 import React, {Fragment, useState} from 'react';
-import LogoBA from '../asset/logoBlueAction.png'
+import LogoBlueAction from '../asset/logoBlueAction.png'
 import { FiAlignJustify, FiX, FiChevronDown} from "react-icons/fi";
 import {NavLink} from "react-router-dom"
 import {Menu, Transition} from '@headlessui/react'
@@ -61,7 +61,7 @@ const NavBar = () => {
         <div className='py-4 sm:py-9 px-6 sm:px-16  bg-[#06253a] sm:flex sm:items-center sm:justify-between '>
          <div className='flex justify-between items-center'>
             <span>
-                <img src={LogoBA} width={50} alt="this" />
+                <img src={LogoBlueAction} width={50} alt="this" />
             </span>
             <span onClick={handleClick}>
               {toggle ? <FiX size={30} className='items-center sm:hidden cursor-pointer ' /> : <FiAlignJustify size={30} className='items-center sm:hidden cursor-pointer' />

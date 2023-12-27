@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import Heading from './Heading'
+// import Heading from './Heading'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLocationDot } from "@fortawesome/free-solid-svg-icons";
 import Swal from "sweetalert2";
@@ -42,7 +42,6 @@ export default function EventContent() {
               </Link>
           </p>
         </div>
-        
       </div>
       <div className="flex justify-center  flex-wrap flex-row h-full w-full bg-white ">
         <div className="flex justify-center items-center md:w-full xl:w-9/12 bg-white md:mx-auto  flex-col ">
