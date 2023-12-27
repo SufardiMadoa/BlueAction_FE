@@ -18,7 +18,7 @@ import EventDocumentation from "./components/EventDocumentation";
 import UploadContentNews from "./components/UploadContentNews";
 import EditeContentNews from "./components/EditeContentNews";
 import DonationUpdate from "./components/DonationUpdate";
-import Eventinput from "./components/EventInput";
+import Eventinput from "./components/Eventinput";
 import HalamanEducation from "./components/HalamanEducation";
 
 import RegisterDonation from "./user/RegisterDonation";
