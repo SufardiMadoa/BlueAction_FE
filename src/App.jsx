@@ -63,7 +63,6 @@ export default function App() {
         />
         <Route path="/admin/Education" element={<HalamanEducation />} />
         <Route path="/admin/Education/newseducate" element={<EdukasiContent />} />
-
         <Route path="/admin/Donation" element={<AdminDonasi />} />
         <Route path="/admin/Donation/update" element={<DonationUpdate />} />
         <Route path="/admin/Donation/Update" element={<DonationUpdate />} />
